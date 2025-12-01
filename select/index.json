@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "TOXIC BOY",
+  "base_artist": "Kenshi Yonezu",
+  "createdAt": "2025-12-01T08:00:05.140502Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "TOXIC BOY",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/01_TOXIC_BOY_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "TOXIC BOY",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/02_TOXIC_BOY_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Toxic Boy",
+      "artist": "Tayc",
+      "has_synced": true,
+      "path": "select/03_Toxic_Boy_Tayc.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "certified toxic boy",
+      "artist": "Reybones",
+      "has_synced": true,
+      "path": "select/04_certified_toxic_boy_Reybones.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Toxic Boy",
+      "artist": "Tayc",
+      "has_synced": true,
+      "path": "select/05_Toxic_Boy_Tayc.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Toxic boy",
+      "artist": "Tsew the Kid",
+      "has_synced": true,
+      "path": "select/06_Toxic_boy_Tsew_the_Kid.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Toxic Boy",
+      "artist": "DRYSSCO",
+      "has_synced": true,
+      "path": "select/07_Toxic_Boy_DRYSSCO.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Toxic Boy",
+      "artist": "Nej'",
+      "has_synced": true,
+      "path": "select/08_Toxic_Boy_Nej'.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Toxic Boy",
+      "artist": "Nej'",
+      "has_synced": true,
+      "path": "select/09_Toxic_Boy_Nej'.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Toxic boy",
+      "artist": "Tsew The Kid",
+      "has_synced": true,
+      "path": "select/10_Toxic_boy_Tsew_The_Kid.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Toxic Boy (feat. MLV)",
+      "artist": "DRYSSCO",
+      "has_synced": true,
+      "path": "select/11_Toxic_Boy_(feat._MLV)_DRYSSCO.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "TOXIC BOY",
+      "artist": "Yonezu Kenshi",
+      "has_synced": true,
+      "path": "select/12_TOXIC_BOY_Yonezu_Kenshi.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Toxic Boy",
+      "artist": "Nej",
+      "has_synced": true,
+      "path": "select/13_Toxic_Boy_Nej.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Toxic Boy (feat. MLV)",
+      "artist": "DRYSSCO",
+      "has_synced": true,
+      "path": "select/14_Toxic_Boy_(feat._MLV)_DRYSSCO.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Tsew The Kid - Toxic Boy (lyrics video)",
+      "artist": "TSEW THE KID",
+      "has_synced": true,
+      "path": "select/15_Tsew_The_Kid_-_Toxic_Boy_(lyrics_video)_TSEW_THE_KID.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "TOXIC BOY",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_01_TOXIC_BOY_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "TOXIC BOY",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_02_TOXIC_BOY_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "TOXIC BOY",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_03_TOXIC_BOY_米津玄師.txt"
+    }
+  ]
+}
